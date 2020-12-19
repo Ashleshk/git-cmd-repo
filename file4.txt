@@ -1,1 +1,2 @@
-this is file 4 edited after clone
+this is file 4 edited after clone 
+and local repo is changed by writing this line and push and commit
